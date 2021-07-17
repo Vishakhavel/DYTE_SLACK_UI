@@ -34,7 +34,7 @@ website more engaging.
 users an option and made the website more lively.
 
 
- <img width="150px" alt="badge" src="https://user-images.githubusercontent.com/54572908/123316353-5f69d680-d54a-11eb-8c34-ba1209c688cd.png">
+ <img width="150px" alt="badge" src="https://user-images.githubusercontent.com/54572908/126045950-e84cee49-c3de-4994-ab68-e117860d1f0b.png">
 
 
 
