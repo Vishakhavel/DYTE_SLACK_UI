@@ -3,21 +3,8 @@
 The "DYTE_SLACK_PROJECT.xd" file is the project file that can be opened using AdobeXD.
 The other files are images of the content inside this file.
 
-  <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045847-1beec5c0-7953-4187-b3fd-94bd5a909182.png">
-
-The redesign for “slack” was not inspired from any existing application store, but rather it is an extension of what a website should look like from the point of view of a user.
-Extensive research was done on websites like https://utilityapi.com/ and https://rapidapi.com/resources/, since they target the same user base. So the redesign was done keeping in mind that the users were developers and persons already using the products of Slack ©.
 
 
-
-## _The main page after enabling the dark theme looks like this:_
-
- <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045776-783d57e1-cf07-4bdd-8f08-05afc3895f42.png">
-
- ## _The sign up page in my design looks like this:_
- 
-  <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045819-a3da2faa-5652-4edc-806e-b73c21a9f700.png">
-  
 
 
 ## THE MAIN PROBLEMS WITH THE EXISTING WEBSITE DESIGN:
@@ -37,12 +24,27 @@ users an option and made the website more lively.
  <img width="150px" alt="badge" src="https://user-images.githubusercontent.com/54572908/126045950-e84cee49-c3de-4994-ab68-e117860d1f0b.png">
 5. I added a “FEATURED” section and put in the mostly sought after apps and services.
  <img width="700px" alt="badge" src="https://user-images.githubusercontent.com/54572908/126046028-b3560fd4-8ded-474d-8dcf-ccf300b655f3.png">
-
-
-
-
 6. I put all other services in a side NavBar, which expanded when the main heading was
 clicked. This would make the website more presentable and the tools more accessible.
+
+
+
+  <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045847-1beec5c0-7953-4187-b3fd-94bd5a909182.png">
+
+The redesign for “slack” was not inspired from any existing application store, but rather it is an extension of what a website should look like from the point of view of a user.
+Extensive research was done on websites like https://utilityapi.com/ and https://rapidapi.com/resources/, since they target the same user base. So the redesign was done keeping in mind that the users were developers and persons already using the products of Slack ©.
+
+
+
+## _The main page after enabling the dark theme looks like this:_
+
+ <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045776-783d57e1-cf07-4bdd-8f08-05afc3895f42.png">
+
+ ## _The sign up page in my design looks like this:_
+ 
+  <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045819-a3da2faa-5652-4edc-806e-b73c21a9f700.png">
+  
+
 
 
   
