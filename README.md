@@ -1,4 +1,7 @@
 # HOME PAGE FOR REDESIGNED SLACK APP DIRECTORY UI.
+
+The "DYTE_SLACK_PROJECT.xd" file is the project file that can be opened using AdobeXD.
+The other files are images of the content inside this file.
   <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045847-1beec5c0-7953-4187-b3fd-94bd5a909182.png">
 
 The redesign for “slack” was not inspired from any existing application store, but rather it is an extension of what a website should look like from the point of view of a user.
