@@ -30,7 +30,7 @@ website more engaging.
 users an option and made the website more lively.
  <img width="150px" alt="badge" src="https://user-images.githubusercontent.com/54572908/126045950-e84cee49-c3de-4994-ab68-e117860d1f0b.png">
 5. I added a “FEATURED” section and put in the mostly sought after apps and services.
- <img width="150px" alt="badge" src="https://user-images.githubusercontent.com/54572908/126046028-b3560fd4-8ded-474d-8dcf-ccf300b655f3.png">
+ <img width="700px" alt="badge" src="https://user-images.githubusercontent.com/54572908/126046028-b3560fd4-8ded-474d-8dcf-ccf300b655f3.png">
 
 
 
