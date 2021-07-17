@@ -1,5 +1,5 @@
 # DYTE_SLACK_UI
-  <img  alt="badge" src="  https://user-images.githubusercontent.com/54572908/126045847-1beec5c0-7953-4187-b3fd-94bd5a909182.png">
+  <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045847-1beec5c0-7953-4187-b3fd-94bd5a909182.png">
 
 The redesign for “slack” was not inspired from any existing application store, but rather it is an extension of what a website should look like from the point of view of a user.
 Extensive research was done on websites like https://utilityapi.com/ and https://rapidapi.com/resources/, since they target the same user base. So the redesign was done keeping in mind that the users were developers and persons already using the products of Slack ©.
