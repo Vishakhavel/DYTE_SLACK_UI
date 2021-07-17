@@ -11,18 +11,14 @@ Extensive research was done on websites like https://utilityapi.com/ and https:/
  
  ## _The sign up page in my design looks like this:_
  
-  <img  width="20px" alt="badge" src="https://user-images.githubusercontent.com/54572908/126045819-a3da2faa-5652-4edc-806e-b73c21a9f700.png">
+  <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045819-a3da2faa-5652-4edc-806e-b73c21a9f700.png">
   
-
-
-
 
 ## THE MAIN PROBLEMS WITH THE EXISTING WEBSITE DESIGN:
 1. The website does not offer any provision to switch themes, for those who prefer a darker theme for the websites they visit.
 2. The main screen of the website is flooded with content, hence making it impossible for the user to make a quick purchase. Only the main content, which brings more profit to Slack © should be presented in the “featured” section and the rest should be put under categories in a sidebar menu.
 3. A very stale login page, that lacks visuals and excitement
 4. The lack of a theme color for the website, making it too plain.
-
 
 
 ## HOW I SOLVED THE AFOREMENTIONED PROBLEMS.
@@ -32,14 +28,7 @@ Extensive research was done on websites like https://utilityapi.com/ and https:/
 website more engaging.
 4. A toggle switch was created to switch between dark and light themes. This gave the
 users an option and made the website more lively.
-
-
  <img width="150px" alt="badge" src="https://user-images.githubusercontent.com/54572908/126045950-e84cee49-c3de-4994-ab68-e117860d1f0b.png">
-
-
-
-
-
 5. I added a “FEATURED” section and put in the mostly sought after apps and services.
 6. I put all other services in a side NavBar, which expanded when the main heading was
 clicked. This would make the website more presentable and the tools more accessible.
