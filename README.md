@@ -33,7 +33,8 @@ website more engaging.
 4. A toggle switch was created to switch between dark and light themes. This gave the
 users an option and made the website more lively.
 
-  <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045957-0b208a1b-8817-495f-b912-7a9e99893ec4.png">
+
+ <img width="150px" alt="badge" src="https://user-images.githubusercontent.com/54572908/123316353-5f69d680-d54a-11eb-8c34-ba1209c688cd.png">
 
 
 
