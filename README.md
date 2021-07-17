@@ -11,7 +11,7 @@ Extensive research was done on websites like https://utilityapi.com/ and https:/
  
  ## _The sign up page in my design looks like this:_
  
-  <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045819-a3da2faa-5652-4edc-806e-b73c21a9f700.png">
+  <img  width="20px" alt="badge" src="https://user-images.githubusercontent.com/54572908/126045819-a3da2faa-5652-4edc-806e-b73c21a9f700.png">
   
 
 
