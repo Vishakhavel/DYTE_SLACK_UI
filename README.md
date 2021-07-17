@@ -32,6 +32,13 @@ Extensive research was done on websites like https://utilityapi.com/ and https:/
 website more engaging.
 4. A toggle switch was created to switch between dark and light themes. This gave the
 users an option and made the website more lively.
+
+  <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045957-0b208a1b-8817-495f-b912-7a9e99893ec4.png">
+
+
+
+
+
 5. I added a “FEATURED” section and put in the mostly sought after apps and services.
 6. I put all other services in a side NavBar, which expanded when the main heading was
 clicked. This would make the website more presentable and the tools more accessible.
