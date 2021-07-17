@@ -3,25 +3,21 @@
 The "DYTE_SLACK_PROJECT.xd" file is the project file that can be opened using AdobeXD.
 The other files are images of the content inside this file.
 
-# ------------------------------------------------------------------------------------------------------------------------------------------------------------------
   <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045847-1beec5c0-7953-4187-b3fd-94bd5a909182.png">
 
 The redesign for “slack” was not inspired from any existing application store, but rather it is an extension of what a website should look like from the point of view of a user.
 Extensive research was done on websites like https://utilityapi.com/ and https://rapidapi.com/resources/, since they target the same user base. So the redesign was done keeping in mind that the users were developers and persons already using the products of Slack ©.
 
-# ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## _The main page after enabling the dark theme looks like this:_
 
  <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045776-783d57e1-cf07-4bdd-8f08-05afc3895f42.png">
- # ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  ## _The sign up page in my design looks like this:_
  
   <img  alt="badge" src="https://user-images.githubusercontent.com/54572908/126045819-a3da2faa-5652-4edc-806e-b73c21a9f700.png">
   
-  # ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## THE MAIN PROBLEMS WITH THE EXISTING WEBSITE DESIGN:
@@ -30,7 +26,6 @@ Extensive research was done on websites like https://utilityapi.com/ and https:/
 3. A very stale login page, that lacks visuals and excitement
 4. The lack of a theme color for the website, making it too plain.
 
-# ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## HOW I SOLVED THE AFOREMENTIONED PROBLEMS.
 1. I added a clean sign-in the page, that was interactive by setting hover states for elements I found relevant.
